@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">webView</string>
+
+    <string-array name="pages">
+        <item>Gmail</item>
+        <item>Hotmail</item>
+        <item>Yahoo</item>
+    </string-array>
+
+</resources>
